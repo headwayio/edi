@@ -1,13 +1,13 @@
 [package]
 name = "edi"
-version = "0.2.0"
-authors = ["Alex Hansen <alex@alex-hansen.com>"]
+version = "0.2.1"
+authors = ["Tim Gremore <tim@headway.io>"]
 edition = "2018"
 license-file = "LICENSE.md"
 description = "Parser for X12 EDI files"
-homepage = "https://github.com/sezna/edi"
+homepage = "https://github.com/headwayio/edi"
 documentation = "https://docs.rs/edi"
-repository = "https://github.com/sezna/edi"
+repository = "https://github.com/headwayio/edi"
 readme = "README.md"
 
 [dependencies]
